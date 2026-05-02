@@ -6,7 +6,7 @@ import Home from '../views/Home'
 import TagManager from 'react-gtm-module';
 
 const tagManagerAgrs = {
-  gtmId: 'GTM-WXW693PW',
+  gtmId: 'GTM-WXW693PW'
 };
 
 TagManager.initialize(tagManagerAgrs);
